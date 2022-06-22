@@ -1,0 +1,25 @@
+{
+  "name": "socket.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minshadk/Socket.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minshadk/Socket.io/issues"
+  },
+  "homepage": "https://github.com/minshadk/Socket.io#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "socket.io": "^4.5.1"
+  }
+}
